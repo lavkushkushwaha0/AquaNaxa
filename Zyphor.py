@@ -76,4 +76,5 @@ if st.sidebar.button('🔄 Refresh Sensor Reading'):
     st.rerun()
 
 st.sidebar.markdown("---")
+
 st.sidebar.caption("Project: AquaNexa | Smart Household Monitoring")
